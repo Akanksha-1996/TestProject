@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 89.79 sec <<< FAILURE! - in TestSuite
+orange(com.practice.SeleniumTest.SampleSelTest)  Time elapsed: 0.054 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.practice.SeleniumTest.SampleSelTest.orange(SampleSelTest.java:22)
+
